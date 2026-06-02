@@ -1,2 +1,1 @@
-# TermuxReader
-App for read Termux Wiki in apk
+App for read Termux Wiki
